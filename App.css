@@ -40,3 +40,20 @@
 .read-the-docs {
   color: #888;
 }
+
+#puplist{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  
+
+
+
+}
+
+#puplist:hover{
+  text-shadow: 0 0 9px #FF0000;
+  filter: drop-shadow(0 -6mm 4mm rgb(210, 0, 0));
+}
+
